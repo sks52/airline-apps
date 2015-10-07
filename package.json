@@ -1,0 +1,26 @@
+{
+  "name": "airline-apps",
+  "version": "1.0.0",
+  "description": "A way to fetch airline apps and related info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concurlabs/airline-apps.git"
+  },
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/concurlabs/airline-apps/issues"
+  },
+  "homepage": "https://github.com/concurlabs/airline-apps#readme",
+  "dependencies": {
+    "JSONStream": "^1.0.6",
+    "backbone": "^1.2.3",
+    "csv": "^0.4.6",
+    "fuse.js": "^1.2.2",
+    "lodash": "^3.10.1"
+  }
+}
